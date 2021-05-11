@@ -1,10 +1,9 @@
-<h1>Отчет по лобораторной 05</h1>
+<h1>Отчет по лобораторной 10</h1>
 </br>gmail почта - sgolenkov2002@gmail.com </br>
 telegram - @Xacker_ducker
 
 <h2>Ход выполнения лабораторной работы:</h2>
 
-[репозиторий lab05](https://github.com/Alex1505Gold/lab05)</br>
 Были выплнены следующие команды
 ```shell
 export GITHUB_USERNAME=Alex1505Gold
